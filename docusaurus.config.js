@@ -1,12 +1,13 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "JSWebDocs",
+  title: "Jean Snyman",
   tagline: "Dinosaurs are cool",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  //favicon: "img/favicon.ico",
+  favicon: "img/profileImage.jfif",
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
@@ -14,24 +15,26 @@ module.exports = {
       contextualSearch: true,
     }, */
     navbar: {
-      title: "JSWebDocs",
+      title: "Jean Snyman",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        //src: "img/logo.svg",
+        src: "img/profileImage.jfif",
       },
-      /* items: [
-        {
+      items: [
+        /* {
           type: "doc",
           docId: "intro",
           position: "left",
           label: "Tutorial",
-        },
+        }, */
+        //{ to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",
           position: "right",
         },
-      ], */
+      ],
     },
     footer: {
       style: "dark",
