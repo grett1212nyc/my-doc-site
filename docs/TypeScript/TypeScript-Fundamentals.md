@@ -4,8 +4,6 @@ title: Getting started with TypeScript
 description: Getting started with TypeScript
 ---
 
-# TypeScript Fundamentals
-
 - Alternative to JavaScript
 - Allows us to use strict types
 - Supports modern features (arrow functions, let, const etc)
