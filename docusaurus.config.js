@@ -18,17 +18,9 @@ module.exports = {
       title: "Jean Snyman",
       logo: {
         alt: "My Site Logo",
-        //src: "img/logo.svg",
         src: "img/profileImage.jfif",
       },
       items: [
-        /* {
-          type: "doc",
-          docId: "intro",
-          position: "left",
-          label: "Tutorial",
-        }, */
-        //{ to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/snymanje/my-doc-site",
           label: "GitHub",
@@ -77,10 +69,6 @@ module.exports = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
               label: "GitHub",
               href: "https://github.com/facebook/docusaurus",
             },
@@ -98,7 +86,9 @@ module.exports = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/",
+          editUrl: "https://github.com/snymanje/my-doc-site/edit/main/",
+          showLastUpdateTime: true,
+          editLocalizedFiles: true,
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
