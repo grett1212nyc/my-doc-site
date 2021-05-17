@@ -8,8 +8,8 @@ module.exports = {
   onBrokenMarkdownLinks: "warn",
   //favicon: "img/favicon.ico",
   favicon: "img/profileImage.jfif",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "snymanje", // Usually your GitHub org/user name.
+  projectName: "my-doc-site", // Usually your repo name.
   themeConfig: {
     /* algolia: {
       contextualSearch: true,
@@ -30,7 +30,7 @@ module.exports = {
         }, */
         //{ to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/snymanje/my-doc-site",
           label: "GitHub",
           position: "right",
         },
