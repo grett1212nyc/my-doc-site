@@ -93,17 +93,12 @@ module.exports = {
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
+        sitemap: {
+          changefreq: "hourly",
+          priority: 0.5,
+          trailingSlash: false,
+        },
       },
     ],
   ],
-  /*   plugins: [
-    [
-      "@docusaurus/plugin-sitemap",
-      {
-        changefreq: "hourly",
-        priority: 0.5,
-        trailingSlash: false,
-      },
-    ],
-  ], */
 };
