@@ -96,7 +96,7 @@ module.exports = {
       },
     ],
   ],
-  plugins: [
+  /*   plugins: [
     [
       "@docusaurus/plugin-sitemap",
       {
@@ -105,5 +105,5 @@ module.exports = {
         trailingSlash: false,
       },
     ],
-  ],
+  ], */
 };
