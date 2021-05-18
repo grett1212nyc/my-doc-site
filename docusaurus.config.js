@@ -1,8 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "Jean Snyman",
-  tagline: "Dinosaurs are cool",
-  url: "https://your-docusaurus-test-site.com",
+  tagline: "Always document you work!",
+  url: "https://my-doc-site.netlify.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -17,7 +17,7 @@ module.exports = {
     navbar: {
       title: "Jean Snyman",
       logo: {
-        alt: "My Site Logo",
+        alt: "Logo",
         src: "img/profileImage.jfif",
       },
       items: [
@@ -100,7 +100,7 @@ module.exports = {
     [
       "@docusaurus/plugin-sitemap",
       {
-        changefreq: "daily",
+        changefreq: "hourly",
         priority: 0.5,
         trailingSlash: false,
       },
