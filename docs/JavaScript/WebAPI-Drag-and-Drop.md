@@ -1,6 +1,6 @@
 ---
 id: WebAPI-Drag-and-Drop
-title: HTML Drag and Drop Example
+title: Drag and Drop Example
 description: A Guide on using Regex in JavaScript
 ---
 
