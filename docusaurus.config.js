@@ -14,6 +14,9 @@ module.exports = {
     /* algolia: {
       contextualSearch: true,
     }, */
+    prism: {
+      additionalLanguages: ["powershell"],
+    },
     navbar: {
       title: "Jean Snyman",
       logo: {
