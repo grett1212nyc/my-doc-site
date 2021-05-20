@@ -1,7 +1,7 @@
 ---
 id: Patch-SharePoint-List-with-complex-data-types
 title: Power Apps - Patch SharePoint List with complex data types
-description: TPatch SharePoint List with complex data types like people picker and lookup lists.
+description: Patch SharePoint List with complex data types like people picker and lookup lists.
 ---
 
 :::tip
