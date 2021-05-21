@@ -25,7 +25,7 @@ module.exports = {
       },
       items: [
         {
-          href: "https://github.com/snymanje/my-doc-site",
+          href: "https://github.com/snymanje",
           label: "GitHub",
           position: "right",
         },
@@ -38,47 +38,21 @@ module.exports = {
           title: "Social Links",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "LinkedIn",
+              href: "https://linkedin.com/in/jean-snyman-js",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Github",
+              href: "https://github.com/snymanje",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://twitter.com/JeanSnyman",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} JSWebDocs, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} - Jean Snyman`,
     },
   },
   presets: [
