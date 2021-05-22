@@ -4,6 +4,8 @@ title: Regular Expressions Using JavaScript
 description: A Guide on using Regex in JavaScript
 ---
 
+---
+
 # Regular Expressions
 
 - Regular expressions always start with a / and ends with a /
