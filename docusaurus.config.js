@@ -2,7 +2,7 @@
 module.exports = {
   title: "Jean Snyman",
   tagline: "Always document you work!",
-  url: "https://my-doc-site.netlify.app/",
+  url: "https://www.jeansnyman.com/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
