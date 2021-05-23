@@ -123,7 +123,7 @@ As a section header
     <h2>Title of Article</h2>
     <span class="byline">by Arthur T. Writer</span>
   </header>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <p>This is a paragraph....</p>
 </article>
 ```
 
