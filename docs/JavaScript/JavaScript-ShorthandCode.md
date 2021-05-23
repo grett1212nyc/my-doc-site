@@ -112,7 +112,8 @@ func();
 
 ```javascript
 // Longhand version
-let justiceLeaque = ['Batman', 'Superman', 'Flash', 'Green Lantern']for(let hero = 0; hero < justiceLeaque.length; hero++){
+let justiceLeaque = ['Batman', 'Superman', 'Flash', 'Green Lantern']
+for(let hero = 0; hero < justiceLeaque.length; hero++) {
    console.log(justiceLeaque[hero])
 }
 
