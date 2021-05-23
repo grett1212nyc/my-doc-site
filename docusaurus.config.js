@@ -13,6 +13,8 @@ module.exports = {
   themeConfig: {
     /* algolia: {
       contextualSearch: true,
+      apiKey: "12312312",
+      indexName: "sfdsefe",
     }, */
     prism: {
       additionalLanguages: ["powershell"],
