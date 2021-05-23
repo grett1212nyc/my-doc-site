@@ -27,3 +27,16 @@
 .navbar__logo {
   border-radius: 50%;
 }
+
+p::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+img[alt="Me"] {
+  float: left;
+  width: 150px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
