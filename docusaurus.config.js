@@ -16,6 +16,9 @@ module.exports = {
       apiKey: "12312312",
       indexName: "sfdsefe",
     }, */
+    googleAnalytics: {
+      trackingID: "UA-135894716-1",
+    },
     prism: {
       additionalLanguages: ["powershell"],
     },
