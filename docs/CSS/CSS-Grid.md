@@ -10,7 +10,7 @@ CSS Grid is a fundamentally new approach to building layouts using CSS.
 CSS Grid and Flexbox are not competing technologies. CSS Grid works on 2 dimensions (rows AND columns) while Flexbox works on a single dimension (rows OR columns).
 
 Here's a list of all the properties available in CSS Grid.
-![CSS Grid Properties](/img/docimages/css/CSS-Grid-Properties.jpg)
+![CSS Grid Properties](/img/docimages/CSS/CSS-Grid-Properties.jpg)
 
 ## Grid basics.
 
@@ -24,10 +24,10 @@ Have a look at the [mozilla developer docs](https://developer.mozilla.org/en-US/
 ## Let's create a basic grid.
 
 This will be the very simple desktop layout
-![grid-desktop-layout](/img/docimages/css/grid-desktop-layout.jpg)
+![grid-desktop-layout](/img/docimages/CSS/grid-desktop-layout.jpg)
 
 And when the viewport gets smaller the sidebar moves to the top and the boxes will collaps.  
-![grid-mobile-layout](/img/docimages/css/grid-mobile-layout.jpg)
+![grid-mobile-layout](/img/docimages/CSS/grid-mobile-layout.jpg)
 
 The html is very basic, we have a header, sidebar, main then another container with content and lastly the footer.
 
