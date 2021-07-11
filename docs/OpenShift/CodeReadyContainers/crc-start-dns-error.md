@@ -1,6 +1,6 @@
 ---
-id: CodeReady-Containers-DNS-Query-Fails-During-CRC-Start
-title: CodeReady Containers - DNS Query Fails During CRC Start, Failed public DNS query
+id: DNS-Query-Fails-During-CRC-Start
+title: DNS query fails during crc start, Failed public DNS query
 description: When starting the cluster with crc start you get the warning, WARN Failed public DNS query from the cluster.
 ---
 
